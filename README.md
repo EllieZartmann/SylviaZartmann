@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SylviaZartmann
+- 👋 Hi, I’m @EllieZartmann
 - 👀 I’m interested in Data Science, especially in Machine Learning and automatism, robotics
 - 🌱 I’m currently learning how to handle Large Language Models and generative AI
 - 😄 Pronouns: I know I am a woman, so I don't care if you use he, she, they or my majesty - last one is preferred ...
